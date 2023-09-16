@@ -1,0 +1,19 @@
+.white{
+    background-color: rgb(234, 220, 230);
+    width: 12.5%;
+    height: 80px;
+}
+.black{
+    background-color: black;
+    width: 12.5%;
+    height: 80px;
+}
+.row{
+    display: flex;
+}
+.board{
+    background-color: hsla(233, 50%, 40%, 0.25);
+    padding: 15px;
+    margin: auto;
+    width: 50%;
+}
